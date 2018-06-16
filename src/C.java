@@ -2,7 +2,7 @@
 public class C {
 	private String name;
 	private B birthDate;
-	
+	private int a;
 	public C(String name , B birthDate){
 		this.name = name;
 		this.birthDate = birthDate;

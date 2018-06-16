@@ -3,6 +3,7 @@ public class B {
 	private int year;
 	private int month;
 	private int date;
+	public int aa;
 	
 	public B(int year , int month, int date)
 	{
